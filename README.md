@@ -5,7 +5,7 @@
   <p align="center">
   A project to visualise sorting algorithms using react
     <br />
-    <a href="">View Demo</a>
+    <a href="https://sorting-visualizer-jmundr.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/jmundr/sorting-visualizer/issues">Report Bug</a>
     ·
@@ -27,15 +27,15 @@ Please follow the guide below in order to run your own instance of this project.
 1. First download or clone the repository
 ```sh
 git clone https://github.com/jmundr/sorting-visualizer.git
-  ```
+```
 2. Run the project
-   ```sh
-   npm start
-   ```
+```sh
+npm start
+```
 3. Or build using 
- ```sh
-   npm build
- ```
+```sh
+npm build
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
